@@ -1,4 +1,4 @@
-## Olá eu sou o Jadson Lima!
+## Olá eu sou Jadson Lima!
 <div align="center">
   <a href="https://github.com/JdsLima">
 </div>
